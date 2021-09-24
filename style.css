@@ -18,6 +18,7 @@ main p {
     color: rgb(65, 65, 65);
     font-weight: 500;
     border: #38b2ac dashed 4px;
+    font-style: italic;
 }
 
 img {
